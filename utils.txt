@@ -1,1 +1,2 @@
-Utility functions for version two of my software
+Utility functions for version two of my software.
+These are very useful functions. --> this is the third change... so this will be third commit
