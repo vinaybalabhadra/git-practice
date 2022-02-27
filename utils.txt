@@ -1,2 +1,3 @@
 Utility functions for version two of my software.
 These are very useful functions. --> this is the third change... so this will be third commit
+This is the 4th modification.. --> done to see "diff" command
